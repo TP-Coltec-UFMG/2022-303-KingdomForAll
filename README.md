@@ -31,7 +31,7 @@
 <p>Cena 1:</p>
 <p><img src="littlepitchulacena1.png"></p>
 <p>Ao clicarmos em options, teremos a segunda cena do menu, que nos dá as opções de acessibilidade do jogo:</p>
-<img src="littlepichula.pdf">
+<img src="littlepitchulacena2.png">
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
