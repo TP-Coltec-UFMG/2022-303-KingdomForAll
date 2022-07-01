@@ -27,7 +27,9 @@
 <p>Titulo: Little Pitchula</p>
 <img src="littlepichula.pdf">
 <h2 align = "left">Descrição do Projeto</h2>
-<p>Jogo de plataforma com princesas da mitologia popular como personagens.</p>
+<p>Jogo de plataforma com princesas como personagens e objetivo final salvar o príncipe.</p>
+<p>A primeira Versão do Menu Apresenta duas Cenas</p>
+<p>Cena 1:</p>
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
@@ -41,7 +43,7 @@
 <ul>
   <li><a href="https://github.com/deblah">Deborah</a></li>
   <li><a href="https://github.com/wanessamarcos">Wanessa</a></li>
-  <li><a href="https://github.com/eumariaw">Wanessa</a></li>
+  <li><a href="https://github.com/eumariaw">Waleska</a></li>
  <li><a href="https://github.com/M0SELL1">Luiza</a></li>
  <li><a href="https://github.com/isacccosta">Isabela</a></li>
 </ul>
