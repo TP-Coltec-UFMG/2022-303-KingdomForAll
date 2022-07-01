@@ -24,7 +24,7 @@
 * [Conclusão](#conclusão)
 
 <h2 align = "left">Titulo e Imagem de capa</h2>
-<p>Titulo: Little Pichula</p>
+<p>Titulo: Little Pitchula</p>
 <img src="littlepichula.pdf">
 <h2 align = "left">Descrição do Projeto</h2>
 <p>Jogo de plataforma com princesas da mitologia popular como personagens.</p>
