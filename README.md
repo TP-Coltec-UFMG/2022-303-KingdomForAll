@@ -15,6 +15,7 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
+* [Ideia do Jogo](#ideia-do-jogo)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -25,21 +26,37 @@
 
 <h2 align = "left">Titulo e Imagem de capa</h2>
 <p>Titulo: Little Pitchula</p>
+
 <h2 align = "left">Descrição do Projeto</h2>
 <p>Jogo de plataforma com princesas como personagens e objetivo final salvar o príncipe.</p>
+
 <p>A primeira Versão do Menu Apresenta duas Cenas</p>
 <p>Cena 1:</p>
 <p><img src="littlepitchulacena1.png"></p>
 <p>Ao clicarmos em options, teremos a segunda cena do menu, que nos dá as opções de acessibilidade do jogo:</p>
 <img src="littlepitchulacena2.png">
+
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
+
+<h2 align = "left">Ideia do Jogo</h2>
+<p>Little Pitchula é uma pequena e inocente refrigerante que gostava 
+muito de jogar nas horas vagas. Porém, após perder toda sua fortuna durante 
+uma partida de truco, ela se vê sem opção a não ser passa a trabalhar para 
+Fantinha, um agiota que coordena o crime local. Little Pitchula agora 
+é encarregada de coletar as dívidas de jogo de outras bebidas.</p>
+
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
+
 <h2 align = "left">Acesso ao Projeto</h2>
+<p>Foram inseridos critérios de acessibilidade em "Little Pitchula". 
+Eles incluem adaptações para usuários daltônicos, autistas e com baixa visão.
+</p>
 <h2 align = "left">Tecnologias utilizadas</h2>
 <ul>
  <li>Unity</li>
 </ul>
+
 <h2 align = "left">Pessoas Contribuidoras</h2>
 <h2 align = "left">Pessoas Desenvolvedoras</h2>
 <ul>
