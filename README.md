@@ -11,17 +11,15 @@
 
  <h2>Índice</h2> 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa](#titulo-e-imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
+* [Status do Projeto](#status-do-projeto)
 * [Ideia do Jogo](#ideia-do-jogo)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 * [Conclusão](#conclusão)
 
 <h2 align = "left">Titulo e Imagem de capa</h2>
@@ -31,9 +29,14 @@
 <p>Jogo de plataforma com princesas como personagens e objetivo final salvar o príncipe.</p>
 
 <p>A primeira Versão do Menu Apresenta duas Cenas</p>
-<p>Cena 1:</p>
+<p>
+<b> Cena 1:</b>
+</p>
 <p><img src="littlepitchulacena1.png"></p>
 <p>Ao clicarmos em options, teremos a segunda cena do menu, que nos dá as opções de acessibilidade do jogo:</p>
+<p>
+ <b> Cena 2:</b>
+</p>
 <img src="littlepitchulacena2.png">
 
 <h2 align = "left">Status do Projeto</h2>
@@ -57,14 +60,13 @@ Eles incluem adaptações para usuários daltônicos, autistas e com baixa visã
  <li>Unity</li>
 </ul>
 
-<h2 align = "left">Pessoas Contribuidoras</h2>
 <h2 align = "left">Pessoas Desenvolvedoras</h2>
 <ul>
   <li><a href="https://github.com/deblah">Deborah</a></li>
   <li><a href="https://github.com/wanessamarcos">Wanessa</a></li>
   <li><a href="https://github.com/eumariaw">Waleska</a></li>
- <li><a href="https://github.com/M0SELL1">Luiza</a></li>
- <li><a href="https://github.com/isacccosta">Isabela</a></li>
+  <li><a href="https://github.com/M0SELL1">Luiza</a></li>
+  <li><a href="https://github.com/isacccosta">Isabela</a></li>
 </ul>
-<h2 align = "left">Licença</h2>
+
 <h2 align = "left">Conclusão</h2>
