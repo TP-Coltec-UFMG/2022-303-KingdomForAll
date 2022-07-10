@@ -88,6 +88,7 @@ enquanto ela anda e coleta as moedas.</p>
 <h2 align = "left">Acesso ao Projeto</h2>
 <p>Foram inseridos critérios de acessibilidade em "Little Pitchula". 
 Eles incluem adaptações para usuários daltônicos, autistas e com baixa visão.
+Mudança no contraste das cores e nas opções de narração.
 </p>
 <h2 align = "left">Tecnologias utilizadas</h2>
 <ul>
