@@ -28,15 +28,15 @@
 <h2 align = "left">Descrição do Projeto</h2>
 <p>Jogo de plataforma com a personagem Pitchulinha, com objetivo de coletar moedas e salvar as outras bebidas devedoras do agiota Fantinha.</p>
 
-<p>A primeira Versão do Menu Apresenta duas Cenasmenu que aparece quando seleciona Options</p>
+<p>A primeira Versão do Menu Apresenta duas Cenas</p>
 <p>
-<b> Cena 1:</b>
+<b>Menu Inicial:</b>
 </p>
 <p><img src="littlepitchulacena1.png"></p>
 <p>Botões de jogar e opções</p>
 <p>Ao clicarmos em options, teremos a segunda cena do menu, que nos dá as opções de acessibilidade do jogo:</p>
 <p>
- <b> Opções:</b>
+ <b>Opções:</b>
 </p>
 <img src="littlepitchulacena2.png">
 <p>Menu Options, com personalização de volume, narração e adaptações para daltônicos.</p>
@@ -44,7 +44,7 @@
 <p>
  <b> Cena 1(em desenvolvimento):</b>
 </p>
-
+<img src="cena 1.png">
 
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
@@ -57,6 +57,8 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
 é encarregada de coletar as dívidas de jogo de outras bebidas.</p>
 
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
+<p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(up, down, left e right) no teclado
+enquanto ela anda e coleta as moedas.</p>
 
 <h2 align = "left">Acesso ao Projeto</h2>
 <p>Foram inseridos critérios de acessibilidade em "Little Pitchula". 
