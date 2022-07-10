@@ -26,18 +26,25 @@
 <p>Titulo: Little Pitchula</p>
 
 <h2 align = "left">Descrição do Projeto</h2>
-<p>Jogo de plataforma com princesas como personagens e objetivo final salvar o príncipe.</p>
+<p>Jogo de plataforma com a personagem Pitchulinha, com objetivo de coletar moedas e salvar as outras bebidas devedoras do agiota Fantinha.</p>
 
-<p>A primeira Versão do Menu Apresenta duas Cenas</p>
+<p>A primeira Versão do Menu Apresenta duas Cenasmenu que aparece quando seleciona Options</p>
 <p>
 <b> Cena 1:</b>
 </p>
 <p><img src="littlepitchulacena1.png"></p>
+<p>Botões de jogar e opções</p>
 <p>Ao clicarmos em options, teremos a segunda cena do menu, que nos dá as opções de acessibilidade do jogo:</p>
 <p>
- <b> Cena 2:</b>
+ <b> Opções:</b>
 </p>
 <img src="littlepitchulacena2.png">
+<p>Menu Options, com personalização de volume, narração e adaptações para daltônicos.</p>
+
+<p>
+ <b> Cena 1(em desenvolvimento):</b>
+</p>
+
 
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
