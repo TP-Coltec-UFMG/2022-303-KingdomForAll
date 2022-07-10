@@ -16,6 +16,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Ideia do Jogo](#ideia-do-jogo)
+* [Personagens](#personagens)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -44,7 +45,7 @@
 <p>
  <b> Cena 1(em desenvolvimento):</b>
 </p>
-<img src="cena 1.png">
+<img src="cena 1.png" width="920"></img>
 
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
@@ -55,6 +56,30 @@ muito de jogar nas horas vagas. Porém, após perder toda sua fortuna durante
 uma partida de truco, ela se vê sem opção a não ser passa a trabalhar para 
 Fantinha, um agiota que coordena o crime local. Little Pitchula agora 
 é encarregada de coletar as dívidas de jogo de outras bebidas.</p>
+
+<h2 align = "left">Personagens</h2>
+<ul  align ="center">
+  <li>
+  <p><b>Pitchulinha</b></p>
+  <img src="pitchulinha.jpeg" width="390"></img>
+  </li>
+  <li>
+  <p><b>Brejinha</b></p>
+  <img src="brejinha.jpeg" width="390"></img>
+  </li>
+  <li> 
+  <p><b>Garrafa</b></p>
+  <img src="garrafa.jpeg" width="390"></img>
+  </li>
+  <li>  
+  <p><b>Tinto</b></p>
+  <img src="tinto.jpeg" width="390"></img>
+  </li>
+  <li>
+  <p><b>Fantinha</b></p>
+  <img src="fantinha.jpeg" width="390"></img>
+  </li>
+</ul>
 
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
 <p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(up, down, left e right) no teclado
