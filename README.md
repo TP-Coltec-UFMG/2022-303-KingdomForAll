@@ -45,7 +45,7 @@
 <p>
  <b> Cena 1(em desenvolvimento):</b>
 </p>
-<img src="cena 1.png" width="920"></img>
+<img src="little pt cena.png" width="920"></img>
 
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
