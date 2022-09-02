@@ -89,7 +89,7 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
   </br>
   <li>  
     <p><b>Tinto</b></p>
-    <img src="./Assets/tinto.png" width="210" height="360"></img>
+    <img src="./Assets/tinto.png" width="190" height="360"></img>
     <p>
       Devedor médio, ném díficil, nem impossível.
     </p>
@@ -106,14 +106,14 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
 </ul>
 
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
-<p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(left, rigth e barra) no teclado
+<p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(left, right e barra) no teclado
 enquanto ela anda e coleta as dívidas.</p>
 
 <h2 align = "left">Acesso ao Projeto</h2>
 <p>
-Em Little Pitchula é possível encontar opções de sons para acessibilidade maior 
-durante a partida
+Em Little Pitchula é possível encontar opções de sons para acessibilidade maior durante a partida.
 </p>
+</br>
 <h2 align = "left">Tecnologias utilizadas</h2>
 <ul>
  <li>Unity</li>
@@ -134,6 +134,6 @@ durante a partida
 Little Pitchula é um jogo desenvolvido com muito carinho 
 e que representa muito para as desenvolvedoras.
 </br>
-Feito inspirado na nossa realida. 
+Feito inspirado na nossa realidade. 
 Espero que seja uma experiência avassaladora pra todos os envolvidos.
 </p>
