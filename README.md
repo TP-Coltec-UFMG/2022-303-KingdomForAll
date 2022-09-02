@@ -77,7 +77,7 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
   </li>
   <li>  
   <p><b>Tinto</b></p>
-  <img src="./Assets/tinto.png" width="210"></img>
+  <img src="./Assets/tinto.png" width="210" height="200"></img>
   </li>
   <li>
   <p><b>Fantinha</b></p>
