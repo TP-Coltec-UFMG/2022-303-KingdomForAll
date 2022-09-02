@@ -52,7 +52,7 @@
 
 
 <h2 align = "left">Status do Projeto</h2>
-<p>Com menu em desenvolvimento</p>
+<p>Finalizado.</p>
 
 <h2 align = "left">Ideia do Jogo</h2>
 <p>Little Pitchula é uma pequena e inocente refrigerante que gostava 
@@ -72,10 +72,10 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
   </li>
   </br>
   <li>
-    <p><b>Brejinha</b></p>
-    <img src="./Assets/brejinha.png" width="210"></img>
+    <p><b>Fantinha</b></p>
+    <img src="./Assets/fantinha.png" width="210"></img>
     <p>
-      Caloteiro profissional, o mais de díficil de cobrar(praticamente o Seu Madruga).
+      O próprio, em PET e osso, Fantinha. O agiota mais temido do reino das bebidas.
     </p>
   </li>
   </br>
@@ -96,24 +96,24 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
   </li>
   </br>
   <li>
-    <p><b>Fantinha</b></p>
-    <img src="./Assets/fantinha.png" width="210"></img>
+    <p><b>Brejinha</b></p>
+    <img src="./Assets/brejinha.png" width="210"></img>
     <p>
-      O próprio, em PET e osso, Fantinha. O agiota mais temido do reino das bebidas.
+      Caloteiro profissional, o mais de díficil de cobrar(praticamente o Seu Madruga).
     </p>
   </li>
   </br>
 </ul>
 
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
-<p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(left, right e barra) no teclado
-enquanto ela anda e coleta as dívidas.</p>
+<p>"Little Pitchula" é um jogo de plataforma, no qual a personagem Pitchulinha pode ser controlada pelas teclas left, right e barra no teclado. Sendo também um jogo de coleta, o usuário deverá se aproximar das diferentes garrafas que aparecem ao longo do caminho e coletar suas dívidas. Isso consequentemente diminuirá a dívida da própria Little Pitchula.</p>
 
 <h2 align = "left">Acesso ao Projeto</h2>
 <p>
-Em Little Pitchula é possível encontar opções de sons para acessibilidade maior durante a partida.
+Em "Little Pitchula", nós trabalhamos com os sons do jogo para que pessoas com dificuldades visuais e de baixa visão possam jogar e mover a personagem pelo mapa mais confortavelmente.
 </p>
 </br>
+
 <h2 align = "left">Tecnologias utilizadas</h2>
 <ul>
  <li>Unity</li>
