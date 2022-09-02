@@ -62,7 +62,7 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
 é encarregada de coletar as dívidas de jogo de outras bebidas.</p>
 
 <h2 align = "left">Personagens</h2>
-<ul  align ="center" style="list-style-type: none;">
+<ul  align ="center" style="list-style: none;">
   <li>
   <p><b>Pitchulinha</b></p>
   <img src="./Assets/PT.png" width="210"></img>
