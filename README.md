@@ -1,12 +1,12 @@
 <h1 align="center">2022-303-Little Pitchula</h1>
 <p align="center">
-<img src="https://img.shields.io/github/issues/TP-Coltec-UFMG/2022-303-KingdomForAll?color=pink"/>
+<img src="https://img.shields.io/github/issues/TP-Coltec-UFMG/2022-303-LittlePitchula?color=pink"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/forks/TP-Coltec-UFMG/2022-303-KingdomForAll?color=pink"/>
+<img src="https://img.shields.io/github/forks/TP-Coltec-UFMG/2022-303-LittlePitchula?color=pink"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/TP-Coltec-UFMG/2022-303-KingdomForAll?color=pink"/>
+<img src="https://img.shields.io/github/stars/TP-Coltec-UFMG/2022-303-LittlePitchula?color=pink"/>
 </p>
 
  <h2>Índice</h2> 
@@ -23,29 +23,33 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
-<h2 align = "left">Titulo e Imagem de capa</h2>
-<p>Titulo: Little Pitchula</p>
+<h2 align = "left">Little Pitchula</h2>
 
 <h2 align = "left">Descrição do Projeto</h2>
-<p>Jogo de plataforma com a personagem Pitchulinha, com objetivo de coletar moedas e salvar as outras bebidas devedoras do agiota Fantinha.</p>
+<p>Jogo de plataforma com a personagem Pitchulinha, com objetivo de coletar a dívida de outras bebidas e diminuir sua dívida co o fantinha.</p>
 
-<p>A primeira Versão do Menu Apresenta duas Cenas</p>
+
 <p>
 <b>Menu Inicial:</b>
 </p>
-<p><img src="littlepitchulacena1.png"></p>
+<p><img src="./Assets/littlepitchulacena1.png"></p>
 <p>Botões de jogar e opções</p>
 <p>Ao clicarmos em options, teremos a segunda cena do menu, que nos dá as opções de acessibilidade do jogo:</p>
 <p>
  <b>Opções:</b>
 </p>
-<img src="littlepitchulacena2.png">
+<img src="./Assets/littlepitchulacena2.png">
 <p>Menu Options, com personalização de volume, narração e adaptações para daltônicos.</p>
 
 <p>
- <b> Cena 1(em desenvolvimento):</b>
+ <b>Cena 1:</b>
 </p>
-<img src="little pt cena.png" width="920"></img>
+<img src="./Assets/little pt cena.png" width="920"></img>
+
+<p>
+  <b>Fase 1:</b>
+</p>
+
 
 <h2 align = "left">Status do Projeto</h2>
 <p>Com menu em desenvolvimento</p>
@@ -58,37 +62,37 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
 é encarregada de coletar as dívidas de jogo de outras bebidas.</p>
 
 <h2 align = "left">Personagens</h2>
-<ul  align ="center">
+<ul  align ="center" style="list-style-type: none;">
   <li>
   <p><b>Pitchulinha</b></p>
-  <img src="pitchulinha.jpeg" width="390"></img>
+  <img src="pitchulinha.png" width="390"></img>
   </li>
   <li>
   <p><b>Brejinha</b></p>
-  <img src="brejinha.jpeg" width="390"></img>
+  <img src="brejinha.png" width="390"></img>
   </li>
   <li> 
   <p><b>Garrafa</b></p>
-  <img src="garrafa.jpeg" width="390"></img>
+  <img src="garrafa.png" width="390"></img>
   </li>
   <li>  
   <p><b>Tinto</b></p>
-  <img src="tinto.jpeg" width="390"></img>
+  <img src="tinto.png" width="390"></img>
   </li>
   <li>
   <p><b>Fantinha</b></p>
-  <img src="fantinha.jpeg" width="390"></img>
+  <img src="fantinha.png" width="390"></img>
   </li>
 </ul>
 
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
-<p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(up, down, left e right) no teclado
-enquanto ela anda e coleta as moedas.</p>
+<p>O jogo vai funcionar controlando a personagem Pitchulinha pelos botões de setas(left, rigth e barra) no teclado
+enquanto ela anda e coleta as dívidas.</p>
 
 <h2 align = "left">Acesso ao Projeto</h2>
-<p>Foram inseridos critérios de acessibilidade em "Little Pitchula". 
-Eles incluem adaptações para usuários daltônicos, autistas e com baixa visão.
-Mudança no contraste das cores e nas opções de narração.
+<p>
+Em Little Pitchula é possível encontar opções de sons para acessibilidade maior 
+durante a partida
 </p>
 <h2 align = "left">Tecnologias utilizadas</h2>
 <ul>
@@ -105,3 +109,11 @@ Mudança no contraste das cores e nas opções de narração.
 </ul>
 
 <h2 align = "left">Conclusão</h2>
+
+<p>
+Little Pitchula é um jogo desenvolvido com muito carinho 
+e que representa muito para as desenvolvedoras.
+</br>
+Feito inspirado na nossa realida. 
+Espero que seja uma experiência avassaladora pra todos os envolvidos.
+</p>
