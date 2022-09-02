@@ -64,25 +64,45 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
 <h2 align = "left">Personagens</h2>
 <ul  align ="center" style="list-style: none;">
   <li>
-  <p><b>Pitchulinha</b></p>
-  <img src="./Assets/PT.png" width="210"></img>
+    <p><b>Pitchulinha</b></p>
+    <img src="./Assets/PT.png" width="210"></img>
+    <p>
+      Protagosnista e cobradora do fantinha
+    </p>
   </li>
+  </br>
   <li>
-  <p><b>Brejinha</b></p>
-  <img src="./Assets/brejinha.png" width="210"></img>
+    <p><b>Brejinha</b></p>
+    <img src="./Assets/brejinha.png" width="210"></img>
+    <p>
+      Caloteiro profissional, o mais de díficil de cobrar(praticamente o Seu Madruga).
+    </p>
   </li>
+  </br>
   <li> 
-  <p><b>Garrafa</b></p>
-  <img src="./Assets/garrafa.png" width="210"></img>
+    <p><b>Garrafa</b></p>
+    <img src="./Assets/garrafa.png" width="210"></img>
+    <p>
+      Caloteiro fácil de cobrar, dívida barata.
+    </p>
   </li>
+  </br>
   <li>  
-  <p><b>Tinto</b></p>
-  <img src="./Assets/tinto.png" width="210" height="330"></img>
+    <p><b>Tinto</b></p>
+    <img src="./Assets/tinto.png" width="210" height="360"></img>
+    <p>
+      Devedor médio, ném díficil, nem impossível.
+    </p>
   </li>
+  </br>
   <li>
-  <p><b>Fantinha</b></p>
-  <img src="./Assets/fantinha.png" width="210"></img>
+    <p><b>Fantinha</b></p>
+    <img src="./Assets/fantinha.png" width="210"></img>
+    <p>
+      O próprio, em PET e osso, Fantinha. O agiota mais temido do reino das bebidas.
+    </p>
   </li>
+  </br>
 </ul>
 
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
