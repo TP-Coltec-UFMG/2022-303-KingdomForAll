@@ -65,23 +65,23 @@ Fantinha, um agiota que coordena o crime local. Little Pitchula agora
 <ul  align ="center" style="list-style-type: none;">
   <li>
   <p><b>Pitchulinha</b></p>
-  <img src="pitchulinha.png" width="390"></img>
+  <img src="./Assets/PT.png" width="210"></img>
   </li>
   <li>
   <p><b>Brejinha</b></p>
-  <img src="brejinha.png" width="390"></img>
+  <img src="./Assets/brejinha.png" width="210"></img>
   </li>
   <li> 
   <p><b>Garrafa</b></p>
-  <img src="garrafa.png" width="390"></img>
+  <img src="./Assets/garrafa.png" width="210"></img>
   </li>
   <li>  
   <p><b>Tinto</b></p>
-  <img src="tinto.png" width="390"></img>
+  <img src="./Assets/tinto.png" width="210"></img>
   </li>
   <li>
   <p><b>Fantinha</b></p>
-  <img src="fantinha.png" width="390"></img>
+  <img src="./Assets/fantinha.png" width="210"></img>
   </li>
 </ul>
 
