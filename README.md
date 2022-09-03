@@ -42,13 +42,10 @@
 <p>Menu Options, com personalização de volume, narração e adaptações para daltônicos.</p>
 
 <p>
- <b>Cena 1:</b>
+ <b>Fase 1:</b>
 </p>
-<img src="./Assets/fase 1 pt" width="920"></img>
+<img src="./Assets/fase 1 pt.png" width="920"></img>
 
-<p>
-  <b>Fase 1:</b>
-</p>
 
 
 <h2 align = "left">Status do Projeto</h2>
