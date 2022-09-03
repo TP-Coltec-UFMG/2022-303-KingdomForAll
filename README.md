@@ -44,7 +44,7 @@
 <p>
  <b>Cena 1:</b>
 </p>
-<img src="./Assets/little pt cena.png" width="920"></img>
+<img src="./Assets/fase 1 pt" width="920"></img>
 
 <p>
   <b>Fase 1:</b>
